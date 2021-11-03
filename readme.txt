@@ -1,0 +1,1 @@
+pict.exe initial.txt > test_cases.xls

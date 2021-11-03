@@ -1,0 +1,3 @@
+Gender: M, F, U
+Age: 18, 21, 45
+City: London, Cologne, Hamburg, Barcelona, Algiers
